@@ -1,3 +1,2 @@
-# mallika
-this is my first git repository
-author=mallika
+Author = Mallika
+ID = 115CS22014
